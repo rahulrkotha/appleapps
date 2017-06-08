@@ -1,2 +1,2 @@
-# appleapps
+# Apple Apps
 Apple application Practice
